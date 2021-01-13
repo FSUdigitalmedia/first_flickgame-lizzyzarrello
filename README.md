@@ -4,5 +4,6 @@
 
 ##Play the Game
 
-https://www.flickgame.org/play.html?p=a1aaecde1da885968ced3dc90a98663c
+https://www.flickgame.org/play.html?p=6a5819945417810f4db6c738e8740249
 
+PS* Click what you wish to move
