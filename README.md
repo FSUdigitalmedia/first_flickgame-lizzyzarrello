@@ -1,6 +1,6 @@
-# Your Flick Game Title Goes Here
+# Sail the Ocean Blue
 
-## Description
+## Join Christopher Columbus in his expedition towards finding the Americas...
 
-Description of the game goes here.
+
 
